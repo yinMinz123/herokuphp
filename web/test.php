@@ -14,7 +14,8 @@
         </style>
 </head>
 <body>
-  <script src="https://trusted.example.com/path/jsonp?callback=alert(document.domain)//"></script>
+  
   <p>Hello World!</p>
 </body>
 </html>
+
